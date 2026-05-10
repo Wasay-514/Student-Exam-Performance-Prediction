@@ -8,7 +8,6 @@
 ## Step 2 — Data Cleaning
 - Handle missing values ✅ (no missing values)
 - Remove duplicates ✅ (no duplicate values)
-- Convert categorical data ❌
 
 ## Step 3 — Exploratory Data Analysis
 #### Perform:
@@ -20,7 +19,7 @@
 
 ## Step 4 — Data Preprocessing 
 
-- Encoding ❌
+- Convert categorical data (Encoding) ❌
 - Feature scaling ❌
 - Train-test split ❌
 
