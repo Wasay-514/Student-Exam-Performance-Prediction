@@ -1,0 +1,14 @@
+
+Student Performance Dataset - Data Dictionary
+
+StudentID: Unique student identifier
+Gender: Male/Female
+Age: Student age
+StudyHoursPerDay: Daily study hours
+AttendancePercentage: Attendance percentage
+AssignmentsCompleted: Number of assignments completed
+SleepHours: Daily sleep hours
+PreviousGrade: Previous exam percentage
+InternetUsageHours: Daily internet usage
+ExtraClasses: Takes extra classes or not
+Result: Target variable (Pass/Fail)
