@@ -12,7 +12,7 @@
 ## Step 3 — Exploratory Data Analysis
 #### Perform:
 
-- Pass vs Fail distribution ❌
+- Pass vs Fail distribution ✅
 - Study hours analysis ❌
 - Attendance impact ❌
 - Correlation heatmap ❌
